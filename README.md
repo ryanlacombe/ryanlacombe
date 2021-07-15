@@ -1,4 +1,5 @@
-### Hi there 👋
+### Passionate Game Development Programmer with experience in teamwork, Agile Method, gameplay engineering, tool development, UI programming, and animation programming. 
+
 
 <!--
 **ryanlacombe/ryanlacombe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
