@@ -1,5 +1,12 @@
-### Passionate Game Development Programmer with experience in teamwork, Agile Method, gameplay engineering, tool development, UI programming, and animation programming. 
+## Hello! 
+I am Rain LaCombe, a professional Game Development Programmer currently living in Louisiana.
 
+You can always reach me at this email: ryanalacombe@gmail.com
+
+### Socials and Other Links:
+
+* [Resume!](https://github.com/ryanlacombe/ryanlacombe.github.io/raw/main/Resume.pdf)
+* [Linkedin](https://www.linkedin.com/in/rain-lacombe/)
 
 <!--
 **ryanlacombe/ryanlacombe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
