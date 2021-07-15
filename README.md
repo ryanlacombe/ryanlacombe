@@ -5,7 +5,7 @@ You can always reach me at this email: ryanalacombe@gmail.com
 
 ### Socials and Other Links:
 
-* [Resume!](https://github.com/ryanlacombe/ryanlacombe.github.io/raw/main/Resume.pdf)
+* [Resume!](https://github.com/ryanlacombe/ryanlacombe.github.io/blob/main/Rain%20LaCombe%20Resume.pdf)
 * [Linkedin](https://www.linkedin.com/in/rain-lacombe/)
 
 <!--
