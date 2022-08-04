@@ -6,7 +6,7 @@ You can always reach me at this email: ryanalacombe@gmail.com
 ### Socials and Other Links:
 
 * [Resume]()
-* [Linkedin](https://www.linkedin.com/in/rain-lacombe/)
+* [Linkedin](https://www.linkedin.com/in/ryan-lacombe/)
 
 <!--
 **ryanlacombe/ryanlacombe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
