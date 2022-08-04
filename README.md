@@ -1,5 +1,5 @@
 ## Hello! 
-I am Rain LaCombe, a professional Game Development Programmer currently living in Louisiana.
+I am Ryan LaCombe, a professional Game Development Programmer currently living in Louisiana.
 
 You can always reach me at this email: ryanalacombe@gmail.com
 
